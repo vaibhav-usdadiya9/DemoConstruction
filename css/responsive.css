@@ -1,0 +1,526 @@
+@charset "utf-8";
+ @media screen and (max-width:1200px) {
+.btn-box a {
+	margin-bottom: 0px;
+}
+.s-header-shape-2 {
+	top: -99px;
+}
+.s-header-shape {
+	top: -95px;
+}
+.client-words {
+	min-height: 130px;
+}
+#counter .counter-number {
+	margin-bottom: 5px;
+	font-size: 30px;
+}
+.feature-block {
+	margin-bottom: 10px;
+}
+.feature-block .text {
+	font-size: 14px;
+	line-height: 25px;
+	min-height: 80px;
+}
+#counter span {
+	font-size: 14px;
+	font-weight: 500;
+}
+.tag-btn {
+	margin-right: 0px;
+	font-size: 11px;
+	padding: 1px 3px 0;
+}
+.blog-details p {
+	min-height: 135px;
+}
+.text-content p {
+	font-size: 14px;
+	line-height: 21px;
+}
+.primary-list {
+	margin-top: 10px;
+}
+.primary-list li {
+	margin-top: 5px;
+}
+.contact-intro:last-child {
+	margin-bottom: 0px;
+}
+.contact-intro {
+	margin-bottom: 25px;
+}
+.pricing-box-category h5 {
+	margin-top: 0px;
+}
+.pricing-box-category h4 {
+	font-size: 24px;
+	line-height: 24px;
+}
+#contact h3 {
+	margin-top: 2px;
+	margin-bottom: 15px;
+}
+.service-box p {
+	min-height: 125px;
+}
+}
+@media (max-width: 1040px) {
+.forcefullwidth_wrapper_tp_banner {
+	margin-top: 110px !important;
+}
+.maleeha_topbar .top_menu {
+	display: none;
+}
+.tp-banner-container{margin-top:100px;}
+.maleeha_topbar .mainpart {
+	background-color: #222;
+}
+.maleeha_topbar .menu {
+	display: none;
+}
+.maleeha_topbar .trigger {
+	display: block;
+}
+.maleeha_hero_wrap .hero_texts h3 {
+	font-size: 55px;
+}
+.maleeha_services_wrap .service_list ul li {
+	width: 50%;
+}
+.maleeha_portfolio .portfolio_list ul li {
+	width: 50%;
+}
+.maleeha_resume .resume_list ul li {
+	width: 50%;
+}
+.maleeha_skills_wrap .skills_inner {
+	flex-direction: column;
+}
+.maleeha_skills_wrap .skills_inner .left {
+	padding-right: 0px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.maleeha_skills_wrap .skills_inner .right {
+	padding-left: 0px;
+	width: 100%;
+}
+.maleeha_team .team_list ul li {
+	width: 50%;
+}
+.maleeha_pricing .pricing_list > ul > li {
+	width: 50%;
+}
+.maleeha_news .news_list ul li {
+	width: 50%;
+}
+.maleeha_contact .contact_inner {
+	flex-direction: column;
+}
+.maleeha_contact .contact_inner .left {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.maleeha_contact .contact_inner .right {
+	width: 100%;
+}
+.maleeha_footer .footer_inner {
+	flex-direction: column;
+}
+.maleeha_footer .footer_inner .left {
+	margin-bottom: 10px;
+}
+.maleeha_intro_inner {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.maleeha_intro_inner > ul > li {
+	width: 50%;
+}
+.maleeha_intro_inner .features ul li {
+	width: 50%;
+}
+}
+ @media screen and (max-width:991px) {
+.connected-icons li {
+	display: inline-block;
+	padding: 0px 4px;
+}
+#logo_dark_img {
+	width: 110px;
+}
+.about-info .inner-column:before {
+	display: none;
+}
+.about-info .image-column .image {
+	padding: 0px;
+}
+.about-info .inner-column {
+	padding: 0px;
+}
+.about-info .image-column .image img {
+	box-shadow: none;
+	margin: 0px;
+}
+.slide-item {
+	margin-top: 35px;
+}
+.service-box p {
+	min-height: 98px;
+}
+.about-info img {
+	margin-top: 25px;
+}
+.counterbox {
+	margin: 12px 0;
+}
+.display_none_991 {
+	display: none;
+}
+textarea {
+	line-height: 20px;
+}
+.client-words {
+	min-height: 155px;
+}
+}
+@media (max-width:767px) {
+.feature-block h4 {
+	font-size: 22px;
+}
+.maleeha_topbar .mainpart {
+    padding: 10px 0px;}
+.feature-block {
+	margin-bottom: 18px;
+}
+.slide-item {
+	margin-top: 20px;
+}
+.footer-text p {
+	text-align: center;
+}
+.social-links ul {
+	text-align: center;
+	padding-top: 15px;
+}
+.forcefullwidth_wrapper_tp_banner {
+	margin-top: 72px !important;
+}
+.tp-banner-container {
+	position: relative;
+	margin-top: 70px;
+}
+.slidertext3 a {
+	padding: 4px 16px !important;
+	font-weight: 500 !important;
+	font-size: 14px !important;
+	text-transform: none;
+}
+.service-box h3 {
+	min-height: 30px;
+}
+.service-box p {
+	min-height: 52px;
+}
+.s-header-shape-2, .s-header-shape-1, .s-header-shape {
+	display: none;
+}
+.display_none_991 {
+	display: block;
+}
+.blog-col {
+	margin: 12px 0;
+}
+.blog-details p {
+	min-height: 60px;
+}
+.pCard_card {
+	margin: 12px 0;
+}
+.section-title-center h4 {
+	font-size: 55px;
+	top: -5px;
+}
+.client-words {
+	min-height: 155px;
+}
+.section-title-center h2 {
+	font-size: 24px;
+	margin: 0px;
+}
+.feature-block .text {
+	min-height: 55px;
+}
+.dots-bg:before {
+	display: none;
+}
+.connected-icons li {
+	padding: 10px 0;
+}
+.connected-icons li a i:after {
+	content: '';
+	background-color: #fff;
+	width: 45px;
+	position: absolute;
+	height: 45px;
+	top: 1px;
+	background-color: #fcb80b;
+}
+.connected-icons li a i {
+	position: relative;
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 20px;
+}
+.connected-icons li a p {
+	display: none;
+}
+.connected-icons li a h5 {
+	display: none;
+}
+.whychoose-wrap1 h6 {
+	font-size: 30px;
+}
+.whychoose-wrap .video .matter h6 {
+	font-size: 36px;
+}
+.portfolio-area .container-filter {
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+.section-title-center {
+	position: relative;
+	margin-bottom: 10px;
+}
+.section-title-center .text {
+	margin: 0 auto;
+	margin-top: 0px;
+	line-height: 22px;
+	padding: 12px 0px;
+}
+.portfolio-area .container-filter li a {
+	width: 90%;
+}
+.maleeha_topbar.animate .mainpart {
+	padding: 10px 0px;
+}
+.about-info {
+	padding: 60px 0;
+}
+#services {
+	padding: 60px 0px 38px 0px;
+}
+.blog-details h4 {
+	min-height: 30px;
+}
+.whychoose-wrap1 {
+	padding: 60px 0;
+}
+.whychoose-wrap {
+	padding: 60px 0;
+}
+#portfolio {
+	padding: 60px 0;
+}
+.team-field {
+	padding: 60px 0;
+}
+.parallax-image {
+	padding: 60px 0;
+}
+.blog-section {
+	padding: 60px 0;
+}
+.testimonials-section {
+	padding: 60px 0;
+}
+#counter {
+	padding: 60px 0;
+}
+.pricingWrap {
+	padding: 60px 0;
+}
+.brand-section {
+	position: relative;
+}
+#contact {
+	padding: 60px 0;
+}
+.footer-area {
+	background: #000;
+}
+.contact-intro {
+	margin-bottom: 15px;
+}
+.contact-intro:last-child {
+	margin-bottom: 15px;
+}
+.portfolio-area .container-filter li {
+	display: block;
+}
+.about-info .image-column {
+	margin-bottom: 0px;
+}
+.section-heading h4 {
+	font-size: 24px;
+}
+}
+.maleeha_hero_wrap .hero_texts h3 {
+	font-size: 50px;
+}
+.maleeha_hero_wrap_video .hero_texts h3 {
+	font-size: 50px;
+}
+.maleeha_about_wrap .about_inner .rightpart .info_list ul li {
+	width: 100%;
+}
+.maleeha_about .about_main p {
+	font-size: 20px;
+}
+.maleeha_hero_wrap .hero_texts .subtitle {
+	font-size: 20px;
+}
+.maleeha_services_wrap .service_list ul {
+	margin-left: 0px;
+}
+.maleeha_portfolio .portfolio_list ul {
+	margin-left: 0px;
+}
+.maleeha_portfolio .portfolio_list ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_services_wrap .service_list ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_about_wrap .about_inner .rightpart .about_title h3 {
+	font-size: 30px;
+}
+.maleeha_title_holder h3 {
+	font-size: 30px;
+}
+.maleeha_resume .resume_list ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_resume .resume_list ul {
+	margin-left: 0px;
+}
+.maleeha_skills_wrap .skills_inner .left h3 {
+	font-size: 30px;
+}
+.maleeha_team .team_list ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_team .team_list ul {
+	margin-left: 0px;
+}
+.maleeha_pricing .pricing_list > ul > li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_pricing .pricing_list > ul {
+	margin-left: 0px;
+}
+.maleeha_news .news_list ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_news .news_list ul {
+	margin-left: 0px;
+}
+.maleeha_contact .contact_inner .right .first_row ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_contact .contact_inner .right .first_row ul {
+	margin-left: 0px;
+}
+.maleeha_intro_inner > ul > li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_intro_inner > ul {
+	margin-left: 0px;
+}
+.maleeha_intro_inner .features ul li {
+	width: 100%;
+	padding-left: 0px;
+}
+.maleeha_intro_inner .features ul {
+	margin-left: 0px;
+}
+}
+@media (max-width:615px) {
+.service-box p {
+	min-height: 85px;
+}
+}
+@media (max-width:570px) {
+.service-box p {
+	min-height: 95px;
+}
+.feature-block .text {
+	min-height: 60px;
+}
+.forcefullwidth_wrapper_tp_banner {
+	margin-top: 60px !important;
+}
+.tp-banner-container {
+	margin-top: 90px;
+}
+.blog-details p {
+	min-height: 85px;
+}
+.whychoose-wrap1 h6 strong {
+	font-size: 40px;
+}
+}
+@media (max-width:500px) {
+.service-box p {
+	min-height: 90px;
+}
+.blog-details h4 {
+	min-height: 36px;
+}
+.section-title-center h4 {
+	font-size: 45px;
+	top: -5px;
+}
+.section-heading h4 {
+	font-size: 20px;
+}
+.feature-block h4 {
+	font-size: 18px;
+}
+.blog-details p {
+	min-height: 90px;
+}
+.service-box h3 {
+	font-size: 24px;
+}
+.whychoose-wrap1 h6 strong {
+	font-size: 30px;
+}
+.whychoose-wrap1 h6 {
+	font-size: 24px;
+}
+.about_btn {
+	font-size: 15px;
+}
+}
+ @media (max-width: 480px) {
+.maleeha_hero_wrap .hero_texts h3 {
+	font-size: 45px;
+}
+.maleeha_hero_wrap_video .hero_texts h3 {
+	font-size: 45px;
+}
+}
